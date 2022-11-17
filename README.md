@@ -54,5 +54,5 @@ I enjoyed this project and it was a great way for me to learn about spacing my e
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tylerwalston)
-- Twitter - [@yourusername](https://www.twitter.com/_tylerwalston)
+- Frontend Mentor - [@tylerwalston](https://www.frontendmentor.io/profile/tylerwalston)
+- Twitter - [@_tylerwalston](https://www.twitter.com/_tylerwalston)
